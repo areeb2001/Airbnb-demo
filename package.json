@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@badrap/bar-of-progress": "^0.2.2",
-    "@heroicons/react": "^2.0.18",
+    "@heroicons/react": "^1.0.6",
     "autoprefixer": "10.4.14",
     "dayjs": "^1.11.9",
     "eslint": "8.44.0",
